@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Hello world!
+ *
  * @author Ian
  */
 public class ResultHelper {
